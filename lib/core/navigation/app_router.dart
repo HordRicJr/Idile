@@ -47,7 +47,7 @@ class AppRoutes {
         final args = settings.arguments as Map<String, dynamic>?;
         return MaterialPageRoute(
           builder: (_) => CategoryPage(
-            categoryId: args?['category'] ?? 'all',
+            categoryId: args?['categoryId'] ?? 'all',
           ),
         );
         
@@ -64,7 +64,7 @@ class AppRoutes {
         return MaterialPageRoute(
           builder: (_) => const Scaffold(
             body: Center(
-              child: Text('Page non trouvée'),
+              child: Text('Page not found'),
             ),
           ),
         );

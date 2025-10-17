@@ -24,9 +24,9 @@ class _MainScaffoldState extends State<MainScaffold> {
   late PageController _pageController;
 
   final List<String> _titles = [
-    'Accueil - Idile',
-    'Explorer',
-    'Catégories',
+    'Home - Idile',
+    'Explore',
+    'Categories',
   ];
 
   @override

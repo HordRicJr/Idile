@@ -43,7 +43,7 @@ class ExplorePage extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            'Découvrez l\'Afrique',
+            'Discover Africa',
             style: Theme.of(context).textTheme.headlineMedium?.copyWith(
               color: AppColors.textOnPrimary,
               fontWeight: FontWeight.bold,
@@ -51,7 +51,7 @@ class ExplorePage extends StatelessWidget {
           ),
           const SizedBox(height: 8),
           Text(
-            'Explorez les richesses culturelles, historiques et spirituelles du continent africain',
+            'Explore the cultural, historical and spiritual riches of the African continent',
             style: Theme.of(context).textTheme.bodyLarge?.copyWith(
               color: AppColors.textOnPrimary.withOpacity(0.9),
             ),
@@ -125,7 +125,7 @@ class ExplorePage extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          'Catégories',
+          'Categories',
           style: Theme.of(context).textTheme.headlineSmall?.copyWith(
             color: AppColors.textPrimary,
             fontWeight: FontWeight.bold,
@@ -139,7 +139,7 @@ class ExplorePage extends StatelessWidget {
             crossAxisCount: 2,
             crossAxisSpacing: 16,
             mainAxisSpacing: 16,
-            childAspectRatio: 1.1,
+            childAspectRatio: 0.85,
           ),
           itemCount: categories.length,
           itemBuilder: (context, index) {

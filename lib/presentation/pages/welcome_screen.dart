@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import '../../core/constants/app_colors.dart';
 import '../widgets/app_logo.dart';
 
-/// Écran de bienvenue avec introduction à l'application
+/// Welcome screen with application introduction
 class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({Key? key}) : super(key: key);
 
@@ -24,30 +24,30 @@ class _WelcomeScreenState extends State<WelcomeScreen>
   
   final List<WelcomeSlide> _slides = [
     WelcomeSlide(
-      title: "Découvrez la richesse africaine",
-      subtitle: "Explorez l'héritage culturel du continent africain",
-      description: "Plongez dans un voyage fascinant à travers les traditions, l'art, l'histoire et la sagesse de l'Afrique.",
+      title: "Discover African Richness",
+      subtitle: "Explore the cultural heritage of the African continent",
+      description: "Dive into a fascinating journey through the traditions, art, history, and wisdom of Africa.",
       icon: Icons.explore,
       gradient: [AppColors.primary, AppColors.secondary],
     ),
     WelcomeSlide(
-      title: "Remontez les temps anciens",
-      subtitle: "Découvrez les civilisations perdues",
-      description: "Explorez les grands royaumes, les figures historiques emblématiques et les sites sacrés qui ont façonné le continent.",
+      title: "Journey Through Ancient Times",
+      subtitle: "Discover lost civilizations",
+      description: "Explore the great kingdoms, iconic historical figures, and sacred sites that shaped the continent.",
       icon: Icons.history,
       gradient: [AppColors.secondary, AppColors.accent],
     ),
     WelcomeSlide(
-      title: "Écoutez les voix ancestrales",
-      subtitle: "Contes, musiques et traditions orales",
-      description: "Laissez-vous porter par les récits ancestraux, les mélodies traditionnelles et la sagesse transmise de génération en génération.",
+      title: "Listen to Ancestral Voices",
+      subtitle: "Tales, music, and oral traditions",
+      description: "Let yourself be carried away by ancestral stories, traditional melodies, and wisdom passed down through generations.",
       icon: Icons.music_note,
       gradient: [AppColors.accent, AppColors.accentSecondary],
     ),
     WelcomeSlide(
-      title: "Célébrez l'art et les festivals",
-      subtitle: "Culture vivante et expressions artistiques",
-      description: "Immergez-vous dans la richesse artistique africaine, des objets d'art traditionnels aux festivals colorés qui animent le continent.",
+      title: "Celebrate Art and Festivals",
+      subtitle: "Living culture and artistic expressions",
+      description: "Immerse yourself in African artistic richness, from traditional art objects to colorful festivals that animate the continent.",
       icon: Icons.celebration,
       gradient: [AppColors.accentSecondary, AppColors.primary],
     ),
@@ -84,7 +84,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
       curve: Curves.easeOutCubic,
     ));
     
-    // Démarrer les animations
+    // Start animations
     _startAnimations();
   }
 
@@ -112,7 +112,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
 
   void _navigateToHome() {
     HapticFeedback.lightImpact();
-    Navigator.of(context).pushReplacementNamed('/home');
+    Navigator.of(context).pushReplacementNamed('/');
   }
 
   @override
@@ -135,7 +135,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
               position: _slideAnimation,
               child: Stack(
                 children: [
-                  // PageView pour les slides
+                  // PageView for slides
                   PageView.builder(
                     controller: _pageController,
                     onPageChanged: (index) {
@@ -150,7 +150,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     },
                   ),
                   
-                  // Bouton Skip en haut à droite
+                  // Skip button at top right
                   Positioned(
                     top: MediaQuery.of(context).padding.top + 16,
                     right: 20,
@@ -163,7 +163,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                         ),
                       ),
                       child: const Text(
-                        'Passer',
+                        'Skip',
                         style: TextStyle(
                           fontSize: 16,
                           fontWeight: FontWeight.w500,
@@ -172,7 +172,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     ),
                   ),
                   
-                  // Indicateurs de page et bouton suivant
+                  // Page indicators and next button
                   Positioned(
                     bottom: 50,
                     left: 0,
@@ -182,7 +182,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
-                          // Indicateurs de page
+                          // Page indicators
                           Row(
                             children: List.generate(
                               _slides.length,
@@ -190,7 +190,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                             ),
                           ),
                           
-                          // Bouton suivant/terminer
+                          // Next/finish button
                           FloatingActionButton(
                             onPressed: _nextPage,
                             backgroundColor: AppColors.accent,
@@ -236,7 +236,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
             children: [
               const Spacer(flex: 1),
               
-              // Logo en haut (seulement sur le premier slide)
+              // Logo at top (only on first slide)
               if (index == 0) ...[
                 const AppLogoCompact(
                   width: 80,
@@ -245,7 +245,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 const SizedBox(height: 20),
               ],
               
-              // Icône du slide
+              // Slide icon
               Container(
                 width: 120,
                 height: 120,
@@ -273,7 +273,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
               
               const SizedBox(height: 40),
               
-              // Titre principal
+              // Main title
               Text(
                 slide.title,
                 textAlign: TextAlign.center,
@@ -287,7 +287,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
               
               const SizedBox(height: 16),
               
-              // Sous-titre
+              // Subtitle
               Text(
                 slide.subtitle,
                 textAlign: TextAlign.center,
@@ -340,7 +340,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
   }
 }
 
-/// Modèle pour les slides de bienvenue
+/// Model for welcome slides
 class WelcomeSlide {
   final String title;
   final String subtitle;

@@ -92,14 +92,14 @@ class CustomDrawer extends StatelessWidget {
                     ),
                     _DrawerMenuItem(
                       icon: Icons.temple_buddhist,
-                      title: 'Divinités Africaines',
+                      title: 'African Deities',
                       subtitle: 'Mythologie et spiritualité',
                       onTap: () => _navigateToCategory(context, 'deities'),
                     ),
                     _DrawerMenuItem(
                       icon: Icons.location_city,
                       title: 'Sites Historiques',
-                      subtitle: 'Patrimoine africain',
+                      subtitle: 'African Heritage',
                       onTap: () => _navigateToCategory(context, 'sites'),
                     ),
                     _DrawerMenuItem(
@@ -191,7 +191,7 @@ class CustomDrawer extends StatelessWidget {
                 ),
               ),
               Text(
-                'Patrimoine Africain',
+                'African Heritage',
                 style: TextStyle(
                   color: AppColors.textOnPrimary.withOpacity(0.8),
                   fontSize: 14,

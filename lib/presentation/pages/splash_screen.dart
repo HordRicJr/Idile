@@ -160,10 +160,10 @@ class _SplashScreenState extends State<SplashScreen>
             child: SafeArea(
               child: Column(
                 children: [
-                  // Espace du haut
+                  // Top space
                   const Spacer(flex: 2),
                   
-                  // Logo animé
+                  // Animated logo
                   Transform.scale(
                     scale: _logoScaleAnimation.value,
                     child: Opacity(
@@ -178,7 +178,7 @@ class _SplashScreenState extends State<SplashScreen>
                   
                   const SizedBox(height: 40),
                   
-                  // Texte animé
+                  // Animated text
                   SlideTransition(
                     position: _textSlideAnimation,
                     child: FadeTransition(
@@ -233,10 +233,10 @@ class _SplashScreenState extends State<SplashScreen>
                     ),
                   ),
                   
-                  // Espace du milieu
+                  // Middle space
                   const Spacer(flex: 2),
                   
-                  // Indicateur de chargement
+                  // Loading indicator
                   FadeTransition(
                     opacity: _textOpacityAnimation,
                     child: Column(
@@ -253,7 +253,7 @@ class _SplashScreenState extends State<SplashScreen>
                         ),
                         const SizedBox(height: 16),
                         Text(
-                          'Chargement...',
+                          'Loading...',
                           style: TextStyle(
                             fontSize: 14,
                             color: AppColors.textLight,
@@ -264,7 +264,7 @@ class _SplashScreenState extends State<SplashScreen>
                     ),
                   ),
                   
-                  // Espace du bas
+                  // Bottom space
                   const Spacer(flex: 1),
                   
                   // Footer
@@ -273,7 +273,7 @@ class _SplashScreenState extends State<SplashScreen>
                     child: Padding(
                       padding: const EdgeInsets.only(bottom: 32),
                       child: Text(
-                        'Découvrez la richesse du patrimoine africain',
+                        'Discover the richness of African heritage',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           fontSize: 12,
