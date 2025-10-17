@@ -193,7 +193,7 @@ class _YouTubeVideoPlayerState extends State<YouTubeVideoPlayer> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'Titre: ${widget.mediaContent.title}',
+                'Title: ${widget.mediaContent.title}',
                 style: TextStyle(
                   color: AppColors.textPrimary,
                   fontWeight: FontWeight.w600,

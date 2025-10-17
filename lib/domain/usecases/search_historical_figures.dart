@@ -3,7 +3,7 @@ import '../entities/historical_figure.dart';
 import '../repositories/historical_figure_repository.dart';
 import '../../core/error/failures.dart';
 
-/// Use case pour rechercher des personnages historiques
+/// Use case to search historical figures
 class SearchHistoricalFigures {
   final HistoricalFigureRepository repository;
 

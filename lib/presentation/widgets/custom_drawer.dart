@@ -50,13 +50,13 @@ class CustomDrawer extends StatelessWidget {
                   items: [
                     _DrawerMenuItem(
                       icon: Icons.auto_stories,
-                      title: 'Contes Africains',
+                      title: 'African Tales',
                       subtitle: 'Histoires traditionnelles',
                       onTap: () => _navigateToCategory(context, 'tales'),
                     ),
                     _DrawerMenuItem(
                       icon: Icons.person_outline,
-                      title: 'Personnages Historiques',
+                      title: 'Historical Figures',
                       subtitle: 'Héros et leaders',
                       onTap: () => _navigateToCategory(context, 'historical-figures'),
                     ),
@@ -68,25 +68,25 @@ class CustomDrawer extends StatelessWidget {
                     ),
                     _DrawerMenuItem(
                       icon: Icons.account_balance,
-                      title: 'Royaumes Africains',
-                      subtitle: 'Empires historiques',
+                      title: 'African Kingdoms',
+                      subtitle: 'Historical empires',
                       onTap: () => _navigateToCategory(context, 'kingdoms'),
                     ),
                     _DrawerMenuItem(
                       icon: Icons.music_note,
-                      title: 'Musique Africaine',
+                      title: 'African Music',
                       subtitle: 'Sons et rythmes',
                       onTap: () => _navigateToCategory(context, 'music'),
                     ),
                     _DrawerMenuItem(
                       icon: Icons.palette,
                       title: 'Art & Culture',
-                      subtitle: 'Créations artistiques',
+                      subtitle: 'Artistic creations',
                       onTap: () => _navigateToCategory(context, 'art'),
                     ),
                     _DrawerMenuItem(
                       icon: Icons.format_quote,
-                      title: 'Citations Africaines',
+                      title: 'African Quotes',
                       subtitle: 'Sagesse ancestrale',
                       onTap: () => _navigateToCategory(context, 'quotes'),
                     ),
@@ -98,13 +98,13 @@ class CustomDrawer extends StatelessWidget {
                     ),
                     _DrawerMenuItem(
                       icon: Icons.location_city,
-                      title: 'Sites Historiques',
+                      title: 'Historical Sites',
                       subtitle: 'African Heritage',
                       onTap: () => _navigateToCategory(context, 'sites'),
                     ),
                     _DrawerMenuItem(
                       icon: Icons.museum,
-                      title: 'Musées',
+                      title: 'Museums',
                       subtitle: 'Collections culturelles',
                       onTap: () => _navigateToCategory(context, 'museums'),
                     ),

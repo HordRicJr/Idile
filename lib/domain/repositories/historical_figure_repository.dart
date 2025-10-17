@@ -2,7 +2,7 @@ import 'package:dartz/dartz.dart';
 import '../../core/error/failures.dart';
 import '../entities/historical_figure.dart';
 
-/// Interface du repository pour les personnages historiques
+/// Repository interface for historical figures
 abstract class HistoricalFigureRepository {
   Future<Either<Failure, List<HistoricalFigure>>> getHistoricalFigures();
   Future<Either<Failure, List<HistoricalFigure>>> searchHistoricalFigures(String query);

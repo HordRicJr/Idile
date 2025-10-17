@@ -3,7 +3,7 @@ import '../../core/error/failures.dart';
 import '../entities/historical_figure.dart';
 import '../repositories/historical_figure_repository.dart';
 
-/// Use case pour récupérer tous les personnages historiques
+/// Use case to retrieve all historical figures
 class GetHistoricalFigures {
   final HistoricalFigureRepository repository;
 
