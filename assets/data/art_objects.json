@@ -1,0 +1,40 @@
+[
+  {
+    "id": "art_001",
+    "name": "Benin Bronze Plaque",
+    "description": "Bronze plaque depicting a warrior chief from the Benin Kingdom, showcasing the sophisticated metalworking skills of Benin artisans.",
+    "artist": "Benin Royal Artists",
+    "period": "16th-17th Century",
+    "material": "Bronze",
+    "technique": "Lost-wax casting",
+    "origin": "Nigeria",
+    "currentLocation": "British Museum, London",
+    "imageUrls": [
+      "assets/images/benin_bronze_1.jpg",
+      "assets/images/benin_bronze_2.jpg"
+    ],
+    "category": "sculpture",
+    "culturalSignificance": "Represents the artistic and cultural heritage of the Benin Kingdom, showcasing their advanced metalworking techniques.",
+    "dimensions": "45cm x 35cm",
+    "isOnDisplay": true
+  },
+  {
+    "id": "art_002",
+    "name": "Kente Cloth",
+    "description": "Traditional woven cloth from Ghana, featuring intricate geometric patterns in bright colors, each with symbolic meanings.",
+    "artist": "Ashanti Weavers",
+    "period": "18th-19th Century",
+    "material": "Cotton and Silk",
+    "technique": "Strip weaving",
+    "origin": "Ghana",
+    "currentLocation": "National Museum of Ghana",
+    "imageUrls": [
+      "assets/images/kente_cloth_1.jpg",
+      "assets/images/kente_cloth_pattern.jpg"
+    ],
+    "category": "textile",
+    "culturalSignificance": "Sacred cloth worn by Ashanti royalty, each pattern tells a story and conveys cultural values.",
+    "dimensions": "200cm x 120cm",
+    "isOnDisplay": true
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "quote_001",
+    "text": "If you want to go fast, go alone. If you want to go far, go together.",
+    "author": "African Proverb",
+    "authorTitle": "Traditional Wisdom",
+    "context": "This proverb emphasizes the importance of community and collaboration in achieving long-term success.",
+    "period": "Traditional",
+    "language": "English",
+    "originalLanguage": "Various African Languages",
+    "category": "wisdom",
+    "source": "African Oral Tradition",
+    "imageUrl": ""
+  },
+  {
+    "id": "quote_002",
+    "text": "I am because we are.",
+    "author": "Ubuntu Philosophy",
+    "authorTitle": "African Philosophy",
+    "context": "The Ubuntu philosophy emphasizes the interconnectedness of all people and the importance of community.",
+    "period": "Traditional",
+    "language": "English",
+    "originalLanguage": "Nguni Languages",
+    "category": "philosophy",
+    "source": "Southern African Philosophy",
+    "imageUrl": ""
+  },
+  {
+    "id": "quote_003",
+    "text": "Education is the most powerful weapon which you can use to change the world.",
+    "author": "Nelson Mandela",
+    "authorTitle": "Former President of South Africa",
+    "context": "Spoken in recognition of the transformative power of education in creating a just society.",
+    "period": "Modern",
+    "language": "English",
+    "originalLanguage": "English",
+    "category": "politics",
+    "source": "Speech, 2003",
+    "imageUrl": ""
+  }
+]

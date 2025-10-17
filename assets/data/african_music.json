@@ -1,0 +1,89 @@
+[
+  {
+    "id": "music_001",
+    "title": "Siyahamba",
+    "artist": "Traditional South African",
+    "origin": "South Africa",
+    "genre": "Traditional/Gospel",
+    "language": "Zulu",
+    "description": "A powerful South African freedom song that became popular during the anti-apartheid movement. The title means 'We are marching in the light of God.'",
+    "instruments": [
+      "Voices (choir)",
+      "African drums",
+      "Traditional percussion"
+    ],
+    "culturalContext": "Sung during church services, freedom marches, and community gatherings. Symbol of hope and resistance.",
+    "meaning": "Expresses faith, unity, and determination in the face of adversity. Celebrates the journey toward freedom and justice.",
+    "audioUrl": "assets/audio/siyahamba.mp3",
+    "imageUrl": "assets/images/siyahamba.jpg",
+    "duration": 240,
+    "period": "20th Century",
+    "influence": "Widely performed internationally, adapted by choirs worldwide, symbol of South African resilience"
+  },
+  {
+    "id": "music_002",
+    "title": "Pata Pata",
+    "artist": "Miriam Makeba",
+    "origin": "South Africa",
+    "genre": "Afrobeat/World Music",
+    "language": "Xhosa and English",
+    "description": "International hit by the legendary Miriam Makeba, combining traditional African rhythms with contemporary sounds.",
+    "instruments": [
+      "Vocals",
+      "Guitar",
+      "Bass",
+      "Drums",
+      "African percussion"
+    ],
+    "culturalContext": "Popular dance song that brought African music to international audiences in the 1960s.",
+    "meaning": "A joyful celebration of African culture and music, promoting pride in African heritage.",
+    "audioUrl": "assets/audio/pata_pata.mp3",
+    "imageUrl": "assets/images/miriam_makeba.jpg",
+    "duration": 168,
+    "period": "20th Century",
+    "influence": "Helped introduce African music to global audiences, inspired countless musicians worldwide"
+  },
+  {
+    "id": "music_003",
+    "title": "Mbube (The Lion Sleeps Tonight)",
+    "artist": "Solomon Linda",
+    "origin": "South Africa",
+    "genre": "Traditional/World Music",
+    "language": "Zulu",
+    "description": "Originally composed by Solomon Linda in 1939, this song became one of the most covered songs in music history.",
+    "instruments": [
+      "Male voices",
+      "Traditional African vocals",
+      "Call and response"
+    ],
+    "culturalContext": "Traditional Zulu hunting song that evolved into a global phenomenon.",
+    "meaning": "Originally about a lion hunt, but evolved to represent various themes in different adaptations.",
+    "audioUrl": "assets/audio/mbube.mp3",
+    "imageUrl": "assets/images/solomon_linda.jpg",
+    "duration": 180,
+    "period": "20th Century",
+    "influence": "Became 'The Lion Sleeps Tonight,' one of the most covered songs ever, generated significant royalties"
+  },
+  {
+    "id": "music_004",
+    "title": "Yekeye",
+    "artist": "Traditional Malian",
+    "origin": "Mali",
+    "genre": "Traditional West African",
+    "language": "Mandinka",
+    "description": "Traditional Malian song celebrating courage and heroism, often performed by griots (traditional historians and musicians).",
+    "instruments": [
+      "Kora (21-string harp)",
+      "Djembe drums",
+      "Balafon",
+      "Traditional vocals"
+    ],
+    "culturalContext": "Performed at ceremonies honoring brave warriors and leaders, part of oral tradition preserving history.",
+    "meaning": "Celebrates bravery, honor, and the heroic deeds of ancestors and warriors.",
+    "audioUrl": "assets/audio/yekeye.mp3",
+    "imageUrl": "assets/images/malian_griot.jpg",
+    "duration": 300,
+    "period": "Traditional (centuries old)",
+    "influence": "Influenced modern West African music, preserved in griot traditions, inspiration for contemporary artists"
+  }
+]

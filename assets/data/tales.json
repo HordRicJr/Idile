@@ -1,0 +1,39 @@
+[
+  {
+    "id": "tale_001",
+    "title": "Anansi and the Wisdom of the World",
+    "content": "Long ago, Anansi the spider decided that he wanted to keep all the wisdom of the world for himself. He gathered all the wisdom into a large gourd and decided to hide it at the top of a tall tree. As he climbed with the gourd tied to his front, his son Ntikuma suggested he tie it to his back instead. Anansi realized that even after collecting all the wisdom, his young son still had some wisdom to offer. In his frustration, he dropped the gourd, and wisdom scattered across the world, which is why everyone has a little bit of wisdom.",
+    "summary": "Anansi the spider tries to hoard all wisdom but learns that wisdom belongs to everyone.",
+    "origin": "Ghana",
+    "language": "English",
+    "category": "moral_tale",
+    "characters": [
+      "Anansi the Spider",
+      "Ntikuma (Anansi's son)"
+    ],
+    "moralLesson": "Wisdom cannot be hoarded by one person; it belongs to all humanity.",
+    "narrator": "Traditional West African Storyteller",
+    "imageUrl": "",
+    "duration": 8,
+    "ageGroup": "all_ages"
+  },
+  {
+    "id": "tale_002",
+    "title": "The Lion and the Rabbit",
+    "content": "In the African savanna, there lived a fierce lion who terrorized all the animals. The animals decided to send one animal each day to the lion so he wouldn't hunt them all. When it was the rabbit's turn, he arrived late and told the lion that another lion had delayed him by claiming to be the king of the jungle. The angry lion demanded to see this other lion. The clever rabbit led him to a well and showed him his own reflection. The lion, thinking it was a rival, jumped into the well to fight and drowned. The rabbit saved all the animals through his wit.",
+    "summary": "A clever rabbit outsmarts a fierce lion using the lion's own pride against him.",
+    "origin": "East Africa",
+    "language": "English",
+    "category": "moral_tale",
+    "characters": [
+      "The Lion",
+      "The Rabbit",
+      "Forest Animals"
+    ],
+    "moralLesson": "Intelligence and wit can overcome brute force.",
+    "narrator": "Traditional East African Storyteller",
+    "imageUrl": "",
+    "duration": 10,
+    "ageGroup": "children"
+  }
+]

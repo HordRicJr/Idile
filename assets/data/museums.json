@@ -1,0 +1,49 @@
+[
+  {
+    "id": "museum_001",
+    "name": "Egyptian Museum",
+    "description": "The Egyptian Museum in Cairo houses the world's most extensive collection of ancient Egyptian antiquities. It has 120,000 items, with a representative amount on display.",
+    "address": "Tahrir Square, Cairo",
+    "city": "Cairo",
+    "country": "Egypt",
+    "region": "North Africa",
+    "imageUrl": "assets/images/egyptian_museum.jpg",
+    "collections": [
+      "Ancient Egyptian Artifacts",
+      "Mummies",
+      "Pharaonic Treasures",
+      "Tutankhamun Collection"
+    ],
+    "openingHours": "9:00 AM - 7:00 PM",
+    "contactInfo": "+20 2 2579 6948",
+    "rating": 4.3,
+    "website": "https://egyptianmuseum.gov.eg",
+    "isVirtualTourAvailable": true,
+    "panorama360Url": "assets/images/360/egyptian_museum_360.jpg",
+    "mediaGallery": [
+      {
+        "id": "media_001",
+        "type": "panorama_360",
+        "url": "assets/images/360/egyptian_museum_main_hall.jpg",
+        "title": "Main Hall 360° View",
+        "description": "360° panoramic view of the main exhibition hall"
+      },
+      {
+        "id": "media_002",
+        "type": "image",
+        "url": "assets/images/egyptian_museum_interior.jpg",
+        "title": "Museum Interior",
+        "description": "Interior view of the Egyptian Museum main exhibition hall"
+      },
+      {
+        "id": "media_003",
+        "type": "audio",
+        "url": "assets/audio/egyptian_museum_guide.mp3",
+        "title": "Audio Guide",
+        "description": "Professional audio guide for the museum",
+        "duration": 2400
+      }
+    ]
+  }
+]
+  

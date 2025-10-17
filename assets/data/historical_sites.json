@@ -1,0 +1,70 @@
+[
+  {
+    "id": "site_001",
+    "name": "Great Pyramid of Giza",
+    "description": "The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.",
+    "location": "Giza, Egypt",
+    "country": "Egypt",
+    "region": "North Africa",
+    "period": "Ancient Egypt (c. 2580-2510 BC)",
+    "significance": "Built as a tomb for Pharaoh Khufu, it represents the pinnacle of pyramid construction and ancient Egyptian engineering.",
+    "imageUrls": [
+      "assets/images/great_pyramid_1.jpg",
+      "assets/images/great_pyramid_2.jpg"
+    ],
+    "category": "monument",
+    "isUnescoSite": true,
+    "visitInfo": "Open daily 8:00 AM - 4:00 PM. Entry tickets required."
+  },
+  {
+    "id": "site_002",
+    "name": "Great Zimbabwe",
+    "description": "Great Zimbabwe is a ruined city in the southeastern hills of Zimbabwe. It was the capital of the Kingdom of Zimbabwe during the Late Iron Age and is famous for its massive stone structures built without mortar.",
+    "location": "Masvingo Province, Zimbabwe",
+    "country": "Zimbabwe",
+    "region": "Southern Africa",
+    "period": "11th-15th Century",
+    "significance": "The largest ancient structure south of the Sahara Desert, it was the heart of a powerful trading empire and gives its name to the modern country of Zimbabwe.",
+    "imageUrls": [
+      "assets/images/great_zimbabwe_1.jpg",
+      "assets/images/great_zimbabwe_2.jpg"
+    ],
+    "category": "archaeological_site",
+    "isUnescoSite": true,
+    "visitInfo": "Open daily. Guided tours available."
+  },
+  {
+    "id": "site_003",
+    "name": "Rock-Hewn Churches of Lalibela",
+    "description": "The Rock-Hewn Churches of Lalibela are a collection of 11 medieval monolithic churches carved directly from rock in the 12th and 13th centuries in Lalibela, Ethiopia.",
+    "location": "Lalibela, Ethiopia",
+    "country": "Ethiopia",
+    "region": "East Africa",
+    "period": "12th-13th Century",
+    "significance": "Considered the 'New Jerusalem' by Ethiopian Christians, these churches are still active places of worship and represent exceptional architectural achievement.",
+    "imageUrls": [
+      "assets/images/lalibela_churches_1.jpg",
+      "assets/images/lalibela_churches_2.jpg"
+    ],
+    "category": "temple",
+    "isUnescoSite": true,
+    "visitInfo": "Open to visitors with respect for ongoing religious services."
+  },
+  {
+    "id": "site_004",
+    "name": "Timbuktu",
+    "description": "Historic city in Mali that was a major trading center and center of Islamic learning during the 15th and 16th centuries. Home to the famous Sankore University and thousands of manuscripts.",
+    "location": "Timbuktu, Mali",
+    "country": "Mali",
+    "region": "West Africa",
+    "period": "12th-16th Century",
+    "significance": "A major center of trade, Islamic learning, and manuscript preservation. Known as the 'City of 333 Saints' and housed one of the world's first universities.",
+    "imageUrls": [
+      "assets/images/timbuktu_1.jpg",
+      "assets/images/timbuktu_manuscripts.jpg"
+    ],
+    "category": "archaeological_site",
+    "isUnescoSite": true,
+    "visitInfo": "Limited access due to security concerns. Check current travel advisories."
+  }
+]

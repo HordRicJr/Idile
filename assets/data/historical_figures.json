@@ -1,0 +1,59 @@
+[
+  {
+    "id": "hf_001",
+    "name": "Hannibal Barca",
+    "title": "Carthaginian Military Commander",
+    "biography": "Hannibal Barca was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War. He is widely regarded as one of the greatest military tacticians and generals in history.",
+    "birthDate": "247 BC",
+    "deathDate": "183-181 BC",
+    "country": "Tunisia",
+    "region": "North Africa",
+    "imageUrl": "assets/images/hannibal_barca.jpg",
+    "achievements": [
+      "Crossed the Alps with elephants",
+      "Victory at Battle of Cannae",
+      "Military genius and tactician",
+      "Threatened Rome itself"
+    ],
+    "period": "Ancient",
+    "category": "warrior"
+  },
+  {
+    "id": "hf_002",
+    "name": "Queen Nzinga",
+    "title": "Queen of Ndongo and Matamba",
+    "biography": "Queen Nzinga was a 17th-century queen of the Ndongo and Matamba Kingdoms in present-day Angola. She was a skilled military tactician and diplomat who fought against Portuguese colonization for over 30 years.",
+    "birthDate": "1583",
+    "deathDate": "1663",
+    "country": "Angola",
+    "region": "Central Africa",
+    "imageUrl": "assets/images/queen_nzinga.jpg",
+    "achievements": [
+      "Resisted Portuguese colonization",
+      "Skilled diplomat and warrior",
+      "Established strong alliances",
+      "Protected her people's sovereignty"
+    ],
+    "period": "Early Modern",
+    "category": "queen"
+  },
+  {
+    "id": "hf_003",
+    "name": "Mansa Musa",
+    "title": "Emperor of Mali",
+    "biography": "Mansa Musa was the tenth emperor of the Mali Empire, ruling from 1312 to 1337. He is famous for his pilgrimage to Mecca and is often considered the wealthiest individual in history.",
+    "birthDate": "1280",
+    "deathDate": "1337",
+    "country": "Mali",
+    "region": "West Africa",
+    "imageUrl": "assets/images/mansa_musa.jpg",
+    "achievements": [
+      "Expanded the Mali Empire",
+      "Famous pilgrimage to Mecca",
+      "Promoted education and trade",
+      "Built mosques and universities"
+    ],
+    "period": "Medieval",
+    "category": "king"
+  }
+]

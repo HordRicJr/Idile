@@ -1,0 +1,110 @@
+[
+  {
+    "id": "festival_001",
+    "name": "Timkat",
+    "description": "Ethiopian Orthodox celebration of Epiphany, commemorating the baptism of Jesus Christ in the Jordan River.",
+    "origin": "Ethiopia",
+    "period": "January 19th (January 20th in leap years)",
+    "frequency": "Annual",
+    "purpose": "Religious celebration of Christ's baptism and spiritual renewal",
+    "activities": [
+      "Procession with replica Ark of the Covenant (Tabot)",
+      "Blessing of water",
+      "Mass baptism ceremonies",
+      "Traditional singing and dancing",
+      "Colorful religious processions"
+    ],
+    "participants": [
+      "Ethiopian Orthodox Christians",
+      "Priests and deacons",
+      "Local communities",
+      "Pilgrims from around the world"
+    ],
+    "significance": "One of the most important festivals in Ethiopian Orthodox Christianity, representing spiritual cleansing and renewal.",
+    "history": "Celebrated for over 1,600 years, dating back to the early days of Christianity in Ethiopia.",
+    "traditions": [
+      "White cotton clothing (habesha kemis)",
+      "Procession to nearby water bodies",
+      "Sprinkling of holy water",
+      "Communal feasting"
+    ],
+    "modernPractice": "Still widely celebrated across Ethiopia, attracting international tourists and maintaining traditional practices.",
+    "imageUrl": "assets/images/timkat_festival.jpg",
+    "mediaUrls": [
+      "https://youtu.be/hbYMKhx4NQs",
+      "assets/audio/timkat_hymns.mp3"
+    ]
+  },
+  {
+    "id": "festival_002",
+    "name": "Damba Festival",
+    "description": "Annual festival celebrated by the Dagomba people of Northern Ghana, commemorating the birth and naming of Prophet Muhammad.",
+    "origin": "Ghana (Northern Region)",
+    "period": "Third month of the Islamic calendar",
+    "frequency": "Annual",
+    "purpose": "Celebration of Islamic heritage and Dagomba culture, honoring Prophet Muhammad",
+    "activities": [
+      "Traditional drumming and dancing",
+      "Horse riding displays",
+      "Storytelling and praise singing",
+      "Community feasting",
+      "Display of traditional regalia"
+    ],
+    "participants": [
+      "Dagomba chiefs and elders",
+      "Local Muslim communities",
+      "Traditional dancers and musicians",
+      "Visitors from neighboring communities"
+    ],
+    "significance": "Strengthens Islamic identity while preserving traditional Dagomba culture and fostering community unity.",
+    "history": "Dates back several centuries, blending Islamic traditions with indigenous Dagomba customs.",
+    "traditions": [
+      "Performance of traditional Damba dance",
+      "Wearing of traditional smocks and caps",
+      "Recitation of Islamic prayers",
+      "Exchange of gifts and food"
+    ],
+    "modernPractice": "Continues to be celebrated with enthusiasm, now also attracting cultural tourism to Northern Ghana.",
+    "imageUrl": "assets/images/damba_festival.jpg",
+    "mediaUrls": [
+      "https://youtu.be/qpD1wuL2EXs",
+      "assets/audio/damba_drums.mp3"
+    ]
+  },
+  {
+    "id": "festival_003",
+    "name": "Reed Dance (Umhlanga)",
+    "description": "Traditional Swazi and Zulu ceremony where young unmarried women participate in a dance for the queen mother.",
+    "origin": "Swaziland (Eswatini) and South Africa",
+    "period": "Late August/Early September",
+    "frequency": "Annual",
+    "purpose": "Celebration of womanhood, cultural preservation, and unity among young women",
+    "activities": [
+      "Cutting and carrying of reeds",
+      "Traditional dancing for the queen mother",
+      "Display of traditional attire",
+      "Cultural exhibitions",
+      "Community bonding activities"
+    ],
+    "participants": [
+      "Unmarried young women (maidens)",
+      "Royal family members",
+      "Traditional leaders",
+      "Cultural enthusiasts"
+    ],
+    "significance": "Promotes cultural identity, women's solidarity, and preservation of traditional values and customs.",
+    "history": "Ancient tradition dating back centuries, historically used to demonstrate the purity and availability of young women.",
+    "traditions": [
+      "Wearing of traditional beadwork",
+      "Carrying of reeds to repair windbreaks",
+      "Performance before royalty",
+      "Celebration of virginity and purity"
+    ],
+    "modernPractice": "Continues as a major cultural event, now focused more on cultural preservation and women's empowerment.",
+    "imageUrl": "assets/images/reed_dance.jpg",
+    "mediaUrls": [
+      "https://youtu.be/ZxOKsGHGOBU",
+      "assets/audio/swazi_traditional_songs.mp3"
+    ]
+  }
+]

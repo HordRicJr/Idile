@@ -1,0 +1,144 @@
+[
+  {
+    "id": "kingdom_001",
+    "name": "Kingdom of Kush",
+    "description": "Ancient kingdom in Nubia, located in present-day Sudan. Known for its powerful pharaohs who ruled both Kush and Egypt, and for being a major center of iron production and trade.",
+    "foundedDate": "c. 1070 BC",
+    "endDate": "c. 350 AD",
+    "location": "Sudan",
+    "region": "Northeast Africa",
+    "territories": [
+      "Upper Nubia",
+      "Lower Nubia",
+      "Parts of Egypt (during 25th Dynasty)"
+    ],
+    "capital": "Kerma, then Napata, then Meroë",
+    "rulers": [
+      "Kashta",
+      "Piye",
+      "Taharqa",
+      "Aspelta",
+      "Amanishakheto"
+    ],
+    "government": "Monarchy with strong Egyptian influence",
+    "economy": "Trade in gold, ivory, ebony, and iron. Agriculture along the Nile. Iron production and weapons manufacturing.",
+    "culture": "Blend of Nubian and Egyptian cultures. Known for pyramid building, hieroglyphic writing, and monumental architecture.",
+    "military": "Skilled archers known as 'the best archers in the world'. Strong cavalry and iron weapons.",
+    "decline": "Declined due to the rise of Aksum, Roman pressure, and environmental changes affecting trade routes.",
+    "legacy": "Left behind numerous pyramids at Nuri, Kurru, and Meroë. Influenced Egyptian culture during the 25th Dynasty.",
+    "imageUrl": "assets/images/kingdom_kush.jpg",
+    "achievements": [
+      "Ruled Egypt as the 25th Dynasty",
+      "Built over 200 pyramids",
+      "Developed Meroitic script",
+      "Major iron production center"
+    ]
+  },
+  {
+    "id": "kingdom_002",
+    "name": "Mali Empire",
+    "description": "Medieval West African empire that flourished from the 13th to 16th centuries. Famous for its wealth, especially in gold, and the legendary pilgrimage of Mansa Musa.",
+    "foundedDate": "c. 1235 AD",
+    "endDate": "c. 1600 AD",
+    "location": "West Africa",
+    "region": "West Africa",
+    "territories": [
+      "Mali",
+      "Senegal",
+      "Niger",
+      "Burkina Faso",
+      "Guinea",
+      "Gambia",
+      "Parts of Mauritania"
+    ],
+    "capital": "Niani",
+    "rulers": [
+      "Sundiata Keita (founder)",
+      "Mansa Musa",
+      "Mansa Sulayman",
+      "Mansa Mahmud IV"
+    ],
+    "government": "Federal monarchy with provincial governors",
+    "economy": "Gold mining, salt trade, agriculture, and trans-Saharan commerce. Control of major trade routes.",
+    "culture": "Islamic influence with traditional African elements. Known for griots (storytellers), oral tradition, and architectural achievements.",
+    "military": "Professional army with cavalry, infantry, and archers. Used iron weapons and armor.",
+    "decline": "Internal strife, rise of Songhai Empire, and Portuguese coastal trade bypassing trans-Saharan routes.",
+    "legacy": "Established Timbuktu as a center of learning. The epic of Sundiata remains important in West African culture.",
+    "imageUrl": "assets/images/mali_empire.jpg",
+    "achievements": [
+      "Controlled major gold mines",
+      "Mansa Musa's famous pilgrimage",
+      "Established Sankore University",
+      "Created extensive trade networks"
+    ]
+  },
+  {
+    "id": "kingdom_003",
+    "name": "Kingdom of Aksum",
+    "description": "Ancient trading kingdom located in northern Ethiopia and Eritrea. Known for its monumental obelisks, early adoption of Christianity, and extensive trade networks.",
+    "foundedDate": "c. 100 AD",
+    "endDate": "c. 960 AD",
+    "location": "Ethiopia and Eritrea",
+    "region": "East Africa",
+    "territories": [
+      "Northern Ethiopia",
+      "Eritrea",
+      "Parts of Sudan",
+      "Southern Arabia (at times)"
+    ],
+    "capital": "Aksum",
+    "rulers": [
+      "Zoskales",
+      "Endubis",
+      "Ezana",
+      "Kaleb",
+      "Armah"
+    ],
+    "government": "Monarchy with strong central authority",
+    "economy": "Trade in ivory, gold, salt, and exotic animals. Agriculture and terraced farming. Minting of gold, silver, and bronze coins.",
+    "culture": "Blend of African, Arab, and Mediterranean influences. Early Christian kingdom with unique architectural style.",
+    "military": "Strong army with war elephants, cavalry, and naval forces in the Red Sea.",
+    "decline": "Rise of Islam disrupted trade routes, internal conflicts, and environmental degradation.",
+    "legacy": "Monumental stelae still stand in Aksum. Foundation for Ethiopian Christianity and culture.",
+    "imageUrl": "assets/images/kingdom_aksum.jpg",
+    "achievements": [
+      "Erected massive stone obelisks",
+      "One of the first Christian kingdoms",
+      "Extensive trade with Rome and India",
+      "Developed own currency system"
+    ]
+  },
+  {
+    "id": "kingdom_004",
+    "name": "Kingdom of Zimbabwe",
+    "description": "Medieval kingdom in southern Africa known for its impressive stone architecture and control of gold trade routes between the interior and the coast.",
+    "foundedDate": "c. 1220 AD",
+    "endDate": "c. 1450 AD",
+    "location": "Zimbabwe",
+    "region": "Southern Africa",
+    "territories": [
+      "Zimbabwe",
+      "Parts of Botswana",
+      "Parts of South Africa",
+      "Parts of Mozambique"
+    ],
+    "capital": "Great Zimbabwe",
+    "rulers": [
+      "Various kings (names largely unknown)",
+      "Mutambara dynasty"
+    ],
+    "government": "Centralized monarchy with local chiefs",
+    "economy": "Gold mining and trade, cattle herding, agriculture, and ivory trade with coastal Swahili cities.",
+    "culture": "Shona culture with sophisticated architecture, pottery, and metalworking. No written language.",
+    "military": "Warriors with spears, shields, and bows. Controlled trade routes through military presence.",
+    "decline": "Depletion of gold mines, environmental degradation, and shift of trade routes to the north.",
+    "legacy": "Great Zimbabwe ruins are a UNESCO World Heritage Site and gave the modern country its name.",
+    "imageUrl": "assets/images/kingdom_zimbabwe.jpg",
+    "achievements": [
+      "Built Great Zimbabwe stone complex",
+      "Controlled gold trade networks",
+      "Advanced dry-stone building techniques",
+      "Sophisticated urban planning"
+    ]
+  }
+]

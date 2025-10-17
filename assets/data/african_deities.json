@@ -1,0 +1,131 @@
+[
+  {
+    "id": "deity_001",
+    "name": "Orunmila",
+    "alternativeNames": "Ifa, Orula",
+    "description": "Yoruba deity of wisdom, knowledge, and prophecy. Known as the deity of divination and the keeper of the secrets of Ifa.",
+    "mythology": "Orunmila was present at the creation of humanity and knows the destiny of all human beings. He teaches through the Ifa divination system.",
+    "origin": "Nigeria",
+    "religion": "Yoruba",
+    "domain": "Wisdom, Divination, Prophecy, Knowledge",
+    "attributes": [
+      "All-knowing",
+      "Prophet",
+      "Teacher",
+      "Guide",
+      "Protector of secrets"
+    ],
+    "symbols": [
+      "Ifa divination chain (Opele)",
+      "Palm nuts",
+      "Iruke (fly whisk)",
+      "Yellow and brown colors"
+    ],
+    "imageUrl": "assets/images/orunmila.jpg",
+    "stories": [
+      "The creation of the Ifa divination system",
+      "Teaching humanity the secrets of destiny",
+      "His role in the pantheon of Orishas"
+    ],
+    "worship": "Consulted through Ifa divination, offerings of palm oil, kola nuts, and prayers. Babalawo priests serve as intermediaries.",
+    "significance": "Central to Yoruba spirituality, provides guidance and wisdom to believers. The Ifa corpus is considered a repository of Yoruba knowledge.",
+    "family": "Son of Olodumare (Supreme God), brother to other Orishas"
+  },
+  {
+    "id": "deity_002",
+    "name": "Isis",
+    "alternativeNames": "Aset, Iset",
+    "description": "Ancient Egyptian goddess of magic, motherhood, healing, and rebirth. One of the most important deities in the Egyptian pantheon.",
+    "mythology": "Wife of Osiris and mother of Horus. After Osiris was killed by Set, Isis used her magic to resurrect him and conceive Horus.",
+    "origin": "Egypt",
+    "religion": "Ancient Egyptian",
+    "domain": "Magic, Motherhood, Healing, Rebirth, Protection",
+    "attributes": [
+      "Powerful magician",
+      "Protective mother",
+      "Healer",
+      "Resurrector",
+      "Guardian of the dead"
+    ],
+    "symbols": [
+      "Ankh (symbol of life)",
+      "Throne hieroglyph",
+      "Tyet (Isis knot)",
+      "Wings",
+      "Sistrum"
+    ],
+    "imageUrl": "assets/images/isis.jpg",
+    "stories": [
+      "The resurrection of Osiris",
+      "The birth and protection of Horus",
+      "Her search for the scattered pieces of Osiris"
+    ],
+    "worship": "Temples throughout Egypt, festivals celebrating her mysteries, offerings of bread, beer, and flowers.",
+    "significance": "Embodied the ideal of motherhood and wifely devotion. Her cult spread throughout the Roman Empire.",
+    "family": "Wife of Osiris, mother of Horus, sister of Nephthys and Set"
+  },
+  {
+    "id": "deity_003",
+    "name": "Anansi",
+    "alternativeNames": "Kwaku Anansi, Nancy",
+    "description": "West African trickster god often depicted as a spider. Known for his wisdom, cunning, and role as a cultural hero.",
+    "mythology": "Anansi often acts as a bridge between the human and divine worlds, bringing knowledge and stories to humanity through his cleverness.",
+    "origin": "Ghana",
+    "religion": "Akan",
+    "domain": "Wisdom, Stories, Trickery, Knowledge, Creativity",
+    "attributes": [
+      "Clever trickster",
+      "Storyteller",
+      "Cultural hero",
+      "Shape-shifter",
+      "Teacher through stories"
+    ],
+    "symbols": [
+      "Spider and web",
+      "Gourd (for storing wisdom)",
+      "Stories and folktales"
+    ],
+    "imageUrl": "assets/images/anansi.jpg",
+    "stories": [
+      "How Anansi scattered wisdom across the world",
+      "Anansi and the pot of wisdom",
+      "Various trickster tales teaching moral lessons"
+    ],
+    "worship": "Honored through storytelling, particularly during evening gatherings. Stories serve as both entertainment and moral instruction.",
+    "significance": "Preserves oral tradition and cultural values through stories. Represents the power of wit over strength.",
+    "family": "Often portrayed with wife Aso and sons, part of Akan spiritual tradition"
+  },
+  {
+    "id": "deity_004",
+    "name": "Shango",
+    "alternativeNames": "Xango, Chango",
+    "description": "Yoruba deity of thunder, lightning, fire, and drums. Former king of the Oyo Empire who was deified after his death.",
+    "mythology": "Originally a powerful king of Oyo, Shango became an Orisha after his death. He controls thunder and lightning and is known for his fiery temperament.",
+    "origin": "Nigeria",
+    "religion": "Yoruba",
+    "domain": "Thunder, Lightning, Fire, Justice, Dance, Virility",
+    "attributes": [
+      "Powerful warrior",
+      "Just ruler",
+      "Master of fire",
+      "Dancer",
+      "Protector of devotees"
+    ],
+    "symbols": [
+      "Double-headed axe (oshe)",
+      "Lightning bolts",
+      "Red and white colors",
+      "Drums (bata)",
+      "Castle or palace"
+    ],
+    "imageUrl": "assets/images/shango.jpg",
+    "stories": [
+      "His reign as king of Oyo",
+      "His transformation into an Orisha",
+      "Battles with other Orishas"
+    ],
+    "worship": "Dance ceremonies with bata drums, offerings of red palm oil, red foods, and prayers for justice and protection.",
+    "significance": "Represents divine justice and royal power. His worship spread throughout the African diaspora.",
+    "family": "Husband to Oya, Oshun, and Oba. Son of Yemoja and Oranyan"
+  }
+]
